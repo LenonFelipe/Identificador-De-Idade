@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    font: normal 15pt arial;
+    background: black;
+}
+header{
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+h1{
+    font: 30pt arial;
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+}
+img{
+    max-width: 400px;
+    max-height: 400px;
+}
+div{
+    text-align: center;
+    padding: 5px;
+}
+#espaço{
+    display: flex;
+    justify-content: center;
+    align-items: center;    
+}
+footer{
+    color: white;
+    padding-top: 20px;
+    text-align: center;
+    font-style: italic;
+}
+#but{
+    font-weight: bold ;
+    color: white;
+    background: grey;
+    border-radius: 5px;
+    margin: 5px;
+    padding: 5px;
+    height: 40px;
+}
+.anos{
+    outline: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    text-indent: 5px;
+    font-weight: bold;
+}
+.sexu{
+    padding-right: 20px;
+}
+
